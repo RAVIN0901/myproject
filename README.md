@@ -1,6 +1,6 @@
 # myproject
 the all codes are present here.
 <br>
-author- SACHIN,
+Author- SACHIN,
 <br>
 Now i'm adding all the appium code here
